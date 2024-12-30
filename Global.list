@@ -30,7 +30,7 @@ DOMAIN,api.themoviedb.org
 DOMAIN,beck-online.beck.de
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,bybit.ada.support
-DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsi.live.ott.irdeto.com  
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -30880,6 +30880,7 @@ IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
 IP-CIDR,54.242.0.0/15,no-resolve
 IP-CIDR,54.93.0.0/16,no-resolve
+IP-CIDR,74.125.162.248,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
@@ -30893,8 +30894,8 @@ IP-CIDR,72.52.81.22/32,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,74.86.0.0/16,no-resolve
-IP-CIDR,75.126.0.0/16,no-resolve
-IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,75.126.0.0/16,no-resolve  
+IP-CIDR,91.105.192.0/23,no-resolve  
 IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
