@@ -11,12 +11,12 @@
 # TOTAL: 30890
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
-DOMAIN,anime-rule34-world.b-cdn.net
+DOMAIN,anime-rule34-world.b-cdn.net  
 DOMAIN,api-p.videomarket.jp
 DOMAIN,apple.com.akadns.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
-DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN,asahishimbun.sc.omtrdc.net  
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
@@ -315,7 +315,7 @@ DOMAIN-SUFFIX,3789av.com
 DOMAIN-SUFFIX,39group.info
 DOMAIN-SUFFIX,3aaa.ac.uk
 DOMAIN-SUFFIX,3animalsextube.com
-DOMAIN-SUFFIX,3arabporn.com
+DOMAIN-SUFFIX,3arabporn.com  
 DOMAIN-SUFFIX,3d-comics.com
 DOMAIN-SUFFIX,3d-december.com
 DOMAIN-SUFFIX,3d-fossils.ac.uk
@@ -335,7 +335,7 @@ DOMAIN-SUFFIX,3dsexgames.biz
 DOMAIN-SUFFIX,3dsexmovies.biz
 DOMAIN-SUFFIX,3dsexplay.xyz
 DOMAIN-SUFFIX,3dsexvilla.com
-DOMAIN-SUFFIX,3dsexy.net
+DOMAIN-SUFFIX,3dsexy.net  
 DOMAIN-SUFFIX,3dstudio.com
 DOMAIN-SUFFIX,3dtin.com
 DOMAIN-SUFFIX,3dtin.net
@@ -347,7 +347,7 @@ DOMAIN-SUFFIX,3movs.xyz
 DOMAIN-SUFFIX,3naked.com
 DOMAIN-SUFFIX,3pornhere.com
 DOMAIN-SUFFIX,3pornstarmovies.com
-DOMAIN-SUFFIX,3sixty-ucc.ac.uk
+DOMAIN-SUFFIX,3sixty-ucc.ac.uk  
 DOMAIN-SUFFIX,3xplanet.com
 DOMAIN-SUFFIX,3xplanet.net
 DOMAIN-SUFFIX,3xplanetimg.com
@@ -29719,7 +29719,7 @@ DOMAIN-SUFFIX,tibetfund.org
 DOMAIN-SUFFIX,tibetgermany.com
 DOMAIN-SUFFIX,tibetgermany.de
 DOMAIN-SUFFIX,tibethaus.com
-DOMAIN-SUFFIX,tibetheritagefund.org
+DOMAIN-SUFFIX,tibetheritagefund.org  
 DOMAIN-SUFFIX,tibethouse.jp
 DOMAIN-SUFFIX,tibethouse.org
 DOMAIN-SUFFIX,tibethouse.us
@@ -30878,17 +30878,16 @@ IP-CIDR,54.173.34.141/32,no-resolve
 IP-CIDR,54.226.0.0/15,no-resolve
 IP-CIDR,54.230.156.0/22,no-resolve
 IP-CIDR,54.235.23.242/32,no-resolve
-IP-CIDR,54.242.0.0/15,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
-IP-CIDR,74.125.162.248,no-resolve
-IP-CIDR,64.120.128.0/17,no-resolve
+IP-CIDR,54.242.0.0/15,no-resolve  
+IP-CIDR,54.93.0.0/16,no-resolve  
+IP-CIDR,64.120.128.0/17,no-resolve  
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,66.220.144.0/20,no-resolve
 IP-CIDR,67.220.91.15/32,no-resolve
 IP-CIDR,67.220.91.18/32,no-resolve
-IP-CIDR,67.220.91.23/32,no-resolve
+IP-CIDR,67.220.91.23/32,no-resolve  
 IP-CIDR,69.171.224.0/19,no-resolve
-IP-CIDR,69.63.176.0/20,no-resolve
+IP-CIDR,69.63.176.0/20,no-resolve  
 IP-CIDR,69.65.19.160/32,no-resolve
 IP-CIDR,72.52.81.22/32,no-resolve
 IP-CIDR,74.119.76.0/22,no-resolve
@@ -30897,7 +30896,7 @@ IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve  
 IP-CIDR,91.105.192.0/23,no-resolve  
 IP-CIDR,91.108.0.0/16,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve  
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
