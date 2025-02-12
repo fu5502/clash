@@ -1,1 +1,1 @@
-# lian
+Global.list  全局
