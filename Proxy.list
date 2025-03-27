@@ -55,3 +55,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 # diy 代理域名列表
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,greasyfork.org
