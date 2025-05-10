@@ -57,3 +57,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,google.com
