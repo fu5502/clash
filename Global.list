@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-27
+# UPDATED: 2025-05-10
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 30653
@@ -30903,4 +30903,5 @@ IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 PROCESS-NAME,LookupViewService
-
+# DOMAIN-SUFFIX,域名后缀地址
+DOMAIN-SUFFIX,fast.com
