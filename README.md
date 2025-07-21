@@ -3,4 +3,5 @@ Global.list  全局
 
 
 openclash  #配置文件/etc/config/
+
 smart_new.yaml #OpenClash yaml配置
