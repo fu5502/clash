@@ -1,8 +1,8 @@
 # 注意规则在满足自己需求情况下，尽量做到精简，不要过度复杂，以免影响性能。
 # 机场订阅
 proxy-providers:
-  红杏:
-    url: "https://hongxingyun10.vip/hxyunvip?token=e2e495608a769e6ee84d07eba0bf4031"
+  机场名字:
+    url: "订阅链接地址"
     type: http
     interval: 86400
     health-check:
